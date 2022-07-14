@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Automated Negotiation
+- 🔭 I’m currently working at Cogent Labs, Japan.
 - 🌱 I’m currently learning too many things
 - 👯 I’m looking to collaborate on new Machine learning / Reinforcement learning ideas
 - 🤔 I’m looking for help with MLOps
